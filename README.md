@@ -15,7 +15,7 @@
 ```
 ## Pictures
 ### Main Menu / Menú Principal:
-![Screenshot from 2023-09-18 13-45-39](https://github.com/Rdz10/World_Population/assets/34318667/dbeac7c2-c499-4562-a85b-a1f2300cfae7)
+![Screenshot from 2023-09-18 13-46-05](https://github.com/Rdz10/World_Population/assets/34318667/9ca1bbbc-eeba-41a4-b667-54a3c6f512ec)
 
 ### Mexico Population Bar Graph / Gráfica de barras de la población de Mexico: 
 ![Screenshot from 2023-09-18 13-46-21](https://github.com/Rdz10/World_Population/assets/34318667/efcf1450-61e0-496f-87bb-9784db119194)
