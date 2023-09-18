@@ -1,5 +1,7 @@
 # World Population Project
 
+## Script to explore World Population dataset. Following a command menu is possible to select between diferent options.
+
 ## EN -> To run script is necessary to follow the next commands on terminal:
 ## ES -> Para correr el script es necesario seguir las siguientes instrucciones en la terminal:
 
