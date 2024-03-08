@@ -53,13 +53,15 @@ def population_region(data, continent):
 
 def get_info(result):
     result = result[0]
+    #print(result)
+    #return 0
     print("\nCountry/Territory:", result["Country/Territory"])
     print("Capital:", result["Capital"])
     print("Continent:",result["Continent"])
     print("CCA3:", result["CCA3"])
-    print("Area (km²):",int(result["Area (km²)"]))
+    print("Area (km\²):",int(result["Area (km2)"]))
     print("Rank:", result["Rank"])
-    print("Density (per km²):",float(result["Density (per km²)"]))
+    print("Density (per km²):",float(result["Density (per km2)"]))
     print("Growth Rate:",float(result["Growth Rate"]))
     print("World Population Percentage:",float(result["World Population Percentage"]))
 
