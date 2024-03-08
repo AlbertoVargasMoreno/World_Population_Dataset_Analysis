@@ -25,3 +25,17 @@
  
 ### Treemap from World Population using plotly express / Treemap de la Poblacion Mundial utilizando plotly express
 ![Screenshot from 2023-09-18 13-47-52](https://github.com/Rdz10/World_Population/assets/34318667/10fdf625-760d-419c-9bf7-26dcdc9d0869)
+
+## Update of Dependencies
+
+- Python 3.12.1
+- Windows 10 22H2
+
+```bash
+ pip install tk
+ pip install matplotlib
+ pip install squarify
+ pip install pandas
+ pip install plotly
+```
+
