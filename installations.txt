@@ -1,0 +1,11 @@
+  228  pip install selenium python-dotenv
+  229  pip install selenium python-dotenv
+  349  pip install requirements.txt 
+  350  pip install -r requirements.txt 
+  351  pip install tkinter
+  352  pip install tk
+  353  pip install matplotlib
+  354  pip install squarify
+  355  pip install pandas
+  357  pip install plotly
+  386  history | grep "pip install" > intallations.txt
